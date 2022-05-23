@@ -5,5 +5,5 @@ OVERVIEW:
 
 Installing Site
 	Copy all files in gratistech2 to your server's directory, apache2 was used in this
-	case. The database can be loaded with the site.sql which is under
+	case. The database can be loaded with the longofathens.sql which is under
 	the DB directory.
